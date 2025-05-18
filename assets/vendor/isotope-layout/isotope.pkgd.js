@@ -4,9 +4,6 @@
  * Licensed GPLv3 for open source use
  * or Isotope Commercial License for commercial use
  *
- * https://isotope.metafizzy.co
- * Copyright 2010-2018 Metafizzy
- */
 
 /**
  * Bridget makes jQuery widgets
@@ -2944,9 +2941,6 @@ return Vertical;
  *
  * Licensed GPLv3 for open source use
  * or Isotope Commercial License for commercial use
- *
- * https://isotope.metafizzy.co
- * Copyright 2010-2018 Metafizzy
  */
 
 ( function( window, factory ) {

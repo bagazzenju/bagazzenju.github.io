@@ -1,7 +1,5 @@
 /*!
-  * portofolio v5.3.6 (https://getportofolio.com/)
-  * Copyright 2011-2025 The portofolio Authors (https://github.com/twbs/portofolio/graphs/contributors)
-  * Licensed under MIT (https://github.com/twbs/portofolio/blob/main/LICENSE)
+  * portofolio v5.3.6 (https://facebook.com/bagaz.zenju)
   */
 import * as Popper from '@popperjs/core';
 
