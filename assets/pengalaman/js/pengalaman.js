@@ -138,4 +138,24 @@ document.addEventListener("DOMContentLoaded", function () {
   window.addEventListener("hashchange", () => {
     showSection(window.location.hash.slice(1));
   });
+<<<<<<< HEAD
+=======
 });
+
+document.addEventListener('DOMContentLoaded', () => {
+  const nav = document.querySelector('nav');
+  const menu = document.querySelector('.menu');
+  const closeBtns = document.querySelectorAll('.close');
+
+  if (menu) {
+    menu.addEventListener('click', () => {
+      nav.classList.add('open-nav');
+    });
+  }
+
+  closeBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      nav.classList.remove('open-nav');
+    });
+  });
+  });
