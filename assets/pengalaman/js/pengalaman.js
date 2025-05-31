@@ -138,8 +138,6 @@ document.addEventListener("DOMContentLoaded", function () {
   window.addEventListener("hashchange", () => {
     showSection(window.location.hash.slice(1));
   });
-<<<<<<< HEAD
-=======
 });
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -158,4 +156,4 @@ document.addEventListener('DOMContentLoaded', () => {
       nav.classList.remove('open-nav');
     });
   });
-  });
+});

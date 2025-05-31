@@ -797,8 +797,6 @@ nav .closebtn {
 }
 .projects .scroll {
   position: absolute;
-<<<<<<< HEAD
-=======
   width: 100%;
   display: flex;
   justify-content: center;
@@ -807,19 +805,11 @@ nav .closebtn {
 }
 .skills .scroll {
   position: unset;
-    top: 475vh;
+  top: 475vh;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-<<<<<<< HEAD
-}
-.projects .scroll .scroll-svg {
-  animation: leftright 2s ease-in-out infinite;
-  margin-left: 4em;
-}
-.projects .scroll small {
-=======
   margin-top: 15px;
 }
 .projects .scroll .scroll-svg, .skills .scroll .scroll-svg {
@@ -827,7 +817,7 @@ nav .closebtn {
   margin-left: 4em;
 }
 .projects .scroll small, .skills .scroll small {
-    font-family: "Poppins";
+  font-family: "Poppins";
   text-transform: uppercase;
   font-weight: 700;
   margin-left: 1em;
@@ -836,11 +826,8 @@ nav .closebtn {
 .projects .subtitle {
   position: absolute;
   left: -2em;
-<<<<<<< HEAD
-  top: 481vh;
-=======
   top: 497.5vh;
-  }
+}
 .projects .card-container {
   overflow: scroll;
   display: grid;
@@ -1544,9 +1531,6 @@ nav .closebtn {
   background: var(--alamat-color);
   color: var(--contrast-color);
 }
-<<<<<<< HEAD
-}/*# sourceMappingURL=main.css.map */
-=======
 }
 @media (max-width: 768px) {
   .about, .edx {
@@ -1603,4 +1587,3 @@ nav .closebtn {
     height: auto;
   }
 }
-  

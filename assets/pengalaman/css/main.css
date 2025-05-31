@@ -576,26 +576,6 @@ section.pengalamanhdp.active {
   white-space: normal;
   word-break: normal;
 }
-<<<<<<< HEAD
-@media (min-width: 768px) {
-  .pengalaman-container {
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 3em;
-  }
-  
-  .image-col {
-    width: 54%;
-    margin-right: 30px;
-    margin-top: 25px;
-  }
-  
-  .text-col {
-    width: 60%;
-    text-align: left;
-  }
-}
-=======
 @media (max-width: 768px) {
   nav {
     transform: translateY(-200%);
@@ -691,4 +671,4 @@ section.pengalamanhdp.active {
   }
 }
 
-  /*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=main.css.map */
