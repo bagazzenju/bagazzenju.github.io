@@ -627,6 +627,7 @@ section.pengalamanhdp.active {
     height: auto;
     padding: 1.2em;
     margin: 1em;
+    width: min-content;
   }
 
   .image-col {
