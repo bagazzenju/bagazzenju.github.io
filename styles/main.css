@@ -1576,7 +1576,10 @@ nav .closebtn {
   .skills .scroll {
     margin-top: 15px:
   }
-   .popup-content {
+  .skills .sk-container .myskill .arc img {
+    width: 95px:
+ }
+  .popup-content {
     width: 90%;
     max-width: 95%;
     padding: 1em;
