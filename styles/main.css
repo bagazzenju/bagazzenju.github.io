@@ -1578,6 +1578,9 @@ nav .closebtn {
     max-width: 95%;
     padding: 1em;
   }
+  .projects .subtitle {
+    top: 503.5vh;
+  }
   .projects .see-repo {
     font-size: 14.75px;
     font-family: Arial, Helvetica, sans-serif;
