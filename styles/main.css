@@ -810,7 +810,7 @@ nav .closebtn {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 15px;
+  margin-top: 80px;
 }
 .projects .scroll .scroll-svg, .skills .scroll .scroll-svg {
   animation: leftright 2s ease-in-out infinite;
@@ -1572,6 +1572,9 @@ nav .closebtn {
   .skills .boknya .kartu::before{
     font-weight: initial;
     font-size: 20.07px;
+  }
+  .skills .scroll {
+    margin-top: 15px:
   }
    .popup-content {
     width: 90%;
